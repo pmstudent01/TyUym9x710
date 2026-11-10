@@ -1,0 +1,11 @@
+workspace:
+  id: 3cae14b9-06bd-46e5-8283-5c91fa8c6498
+
+# Each entry here maps a local resource to one or more corresponding objects in Postman Cloud
+
+cloudResources:
+  collections:
+    ../postman/collections/Vehicle Service QA Testing Collection: 60027331-ccc4ca57-3a68-4d88-8847-27440a8717bc
+    ../postman/collections/Vehicle Service Collection: 60027348-97b2991e-5256-4d32-a3cc-156cf717486f
+  environments:
+    ../postman/environments/Mock Environment.environment.yaml: 60027331-b3121927-6721-42e3-bd37-d14d1a0c242f

@@ -1,0 +1,10 @@
+$kind: collection
+description: toto
+variables:
+  baseUrl: "{{baseUrl}}"
+auth:
+  - id: d62e472a-520d-49c3-80eb-fdfaa1d41f39
+    type: apikey
+    name: apikey auth
+    credentials:
+      key: X-API-Key
